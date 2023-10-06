@@ -1,0 +1,8 @@
+.containerMain ul{
+    display: flex;
+}
+
+.containerMain ul li{
+    list-style: none;
+    margin: 10px 20px;
+}
